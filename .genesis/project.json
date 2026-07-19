@@ -1,1 +1,11 @@
-
+{
+  "name": "Genesis Builder Test",
+  "language": "Python",
+  "framework": "Flask",
+  "runtime": "Python 3.12",
+  "deployment": "Railway",
+  "container": "Docker",
+  "entrypoint": "app.py",
+  "health_endpoint": "/health",
+  "version": "0.1.0"
+}
