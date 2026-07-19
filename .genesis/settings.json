@@ -1,1 +1,7 @@
-
+{
+  "language": "Python",
+  "framework": "Flask",
+  "deploy": "Railway",
+  "database": "PostgreSQL",
+  "style": "Clean Architecture"
+}
